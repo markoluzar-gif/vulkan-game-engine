@@ -1,0 +1,2 @@
+premikate se lahko z državnjem desnega klika v viewportu in potem gibane z WASD
+shranjujete s CTRL + S
